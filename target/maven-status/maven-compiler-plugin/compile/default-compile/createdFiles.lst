@@ -1,0 +1,4 @@
+com\taon2\applicationtask\command\FireCommand.class
+com\taon2\applicationtask\command\ExplodeCommand.class
+com\taon2\applicationtask\command\LightningCommand.class
+com\taon2\applicationtask\ApplicationTask.class

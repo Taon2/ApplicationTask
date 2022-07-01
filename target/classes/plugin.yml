@@ -1,0 +1,15 @@
+name: ApplicationTask
+main: com.taon2.applicationtask.ApplicationTask
+authors: ["Christian Doughty (Taon2)"]
+version: 1.0.0
+api-version: 1.19
+commands:
+  fire:
+    description: Set a player ablaze.
+    usage: /fire <player>
+  lightning:
+    description: Strike a player with the power of Zeus!
+    usage: /lightning <player>
+  explode:
+    description: Explodes a player.
+    usage: /explode <player>
